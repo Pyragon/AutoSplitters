@@ -11,9 +11,16 @@
     <CheatEntry>
       <ID>2</ID>
       <Description>"stage"</Description>
-      <LastState Value="1" RealAddress="7FFA798DBFA8"/>
+      <LastState Value="9" RealAddress="7FFA798DBFA8"/>
       <VariableType>4 Bytes</VariableType>
       <Address>octoshock.dll+38BFA8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"pipeCount"</Description>
+      <LastState Value="0" RealAddress="7FFA798E247B"/>
+      <VariableType>Byte</VariableType>
+      <Address>octoshock.dll+39247B</Address>
     </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
