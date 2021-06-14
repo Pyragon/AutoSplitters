@@ -4,23 +4,177 @@
     <CheatEntry>
       <ID>0</ID>
       <Description>"isProceedMenu"</Description>
-      <LastState Value="1" RealAddress="7FFA798DE1A0"/>
+      <LastState Value="1" RealAddress="7FFA715AE1A0"/>
       <VariableType>4 Bytes</VariableType>
       <Address>octoshock.dll+38E1A0</Address>
     </CheatEntry>
     <CheatEntry>
       <ID>2</ID>
       <Description>"stage"</Description>
-      <LastState Value="9" RealAddress="7FFA798DBFA8"/>
+      <LastState Value="24" RealAddress="7FFA715ABFA8"/>
       <VariableType>4 Bytes</VariableType>
       <Address>octoshock.dll+38BFA8</Address>
     </CheatEntry>
     <CheatEntry>
+      <ID>10</ID>
+      <Description>"onDeathScreen[Invalid]"</Description>
+      <LastState Value="1" RealAddress="7FFA715D4FE0"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+3B4FE0</Address>
+    </CheatEntry>
+    <CheatEntry>
       <ID>3</ID>
       <Description>"pipeCount"</Description>
-      <LastState Value="0" RealAddress="7FFA798E247B"/>
+      <LastState Value="0" RealAddress="7FFA715B247B"/>
       <VariableType>Byte</VariableType>
       <Address>octoshock.dll+39247B</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"beansCollected"</Description>
+      <LastState Value="65536" RealAddress="7FFA715AB3E0"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+38B3E0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"inDialogue"</Description>
+      <LastState Value="0" RealAddress="7FFA715ABBE4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+38BBE4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"screenStyle"</Description>
+      <LastState Value="0" RealAddress="7FFA715ABBE8"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+38BBE8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"soundPlaying?"</Description>
+      <LastState Value="0" RealAddress="7FFA715AB4E4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+38B4E4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>16</ID>
+      <Description>"No description"</Description>
+      <LastState Value="2" RealAddress="7FFA715C4EE0"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+3A4EE0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"No description"</Description>
+      <LastState Value="1456887576" RealAddress="7FFA717F9770"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+5D9770</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>18</ID>
+      <Description>"No description"</Description>
+      <LastState Value="1101744621" RealAddress="7FFA7180001C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+5E001C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>19</ID>
+      <Description>"No description"</Description>
+      <LastState Value="69272609" RealAddress="7FFA717E3F14"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+5C3F14</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>20</ID>
+      <Description>"No description"</Description>
+      <LastState Value="346428582" RealAddress="7FFA717E66EC"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+5C66EC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>21</ID>
+      <Description>"No description"</Description>
+      <LastState Value="346426502" RealAddress="7FFA717E6710"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+5C6710</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>22</ID>
+      <Description>"No description"</Description>
+      <LastState Value="1409242111" RealAddress="7FFA717E6CF8"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+5C6CF8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>23</ID>
+      <Description>"No description"</Description>
+      <LastState Value="688335111" RealAddress="7FFA717E86EC"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+5C86EC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>24</ID>
+      <Description>"No description"</Description>
+      <LastState Value="352982282" RealAddress="7FFA717E7E0C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+5C7E0C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>25</ID>
+      <Description>"No description"</Description>
+      <LastState Value="69272609" RealAddress="7FFA717E9E0C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+5C9E0C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>26</ID>
+      <Description>"No description"</Description>
+      <LastState Value="1260014362" RealAddress="7FFA717EEE0C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+5CEE0C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>27</ID>
+      <Description>"No description"</Description>
+      <LastState Value="423957764" RealAddress="7FFA717F07B8"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+5D07B8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>28</ID>
+      <Description>"No description"</Description>
+      <LastState Value="1610570686" RealAddress="7FFA717F2DFC"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+5D2DFC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>29</ID>
+      <Description>"No description"</Description>
+      <LastState Value="766323117" RealAddress="7FFA71803F60"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+5E3F60</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>30</ID>
+      <Description>"No description"</Description>
+      <LastState Value="965360010" RealAddress="7FFA71806700"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+5E6700</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>31</ID>
+      <Description>"No description"</Description>
+      <LastState Value="967589325" RealAddress="7FFA7180BEE0"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+5EBEE0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>32</ID>
+      <Description>"No description"</Description>
+      <LastState Value="761933162" RealAddress="7FFA7180C704"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>octoshock.dll+5EC704</Address>
     </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
