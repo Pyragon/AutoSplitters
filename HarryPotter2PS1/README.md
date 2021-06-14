@@ -27,3 +27,9 @@ The following lists all of the information collected by the autosplitter, and th
 * Beans Collected (Cumulative)
 * Pipes Collected (Cumulative)
 * Deaths (Per run)
+
+## Live Split Layout
+
+Example:
+
+![Live Split Example](LiveSplitExample.png =250x250)
