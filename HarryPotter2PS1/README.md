@@ -23,3 +23,7 @@ This screen also appears after every death. This script tries to look for any de
 I thought it might be fun to collect a lot of random information through the autosplitter to be used for different livesplit layouts.
 
 The following lists all of the information collected by the autosplitter, and the text component on the layout it tries to edit.
+
+* Beans Collected (Cumulative)
+* Pipes Collected (Cumulative)
+* Deaths (Per run)
