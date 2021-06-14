@@ -61,7 +61,11 @@ startup {
         63, //End of Sneaky Sneak,
         64, //End of forest and trolls
         65, //End of Aragog
-        71 //End of Slip and Slide
+        71, //End of Slip and Slide
+        //GET END FROM SOME OTHER METHOD.
+        //NEED TO GET EXACT MOMENT BASILISK DIES
+        //GET FROM HEALTH BAR ON BOTTOM DISAPPEARING?
+        //GET FROM PROGRESS OF HEALTH BAR GOING TO 0?
     };
 
 }
