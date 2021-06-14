@@ -17,3 +17,9 @@ I will try to find an alternative to this, but until then, I would love some fee
 This autosplitter is handled by listening to a 'stage' byte in memory. This stage increments any time you see the 'Loading' screen in-game. This isn't exactly a fool-proof method, but I can't seem to find anything else. Any feedback appreciated.
 
 This screen also appears after every death. This script tries to look for any death, and account for it, (minus the intentional death in DADA). If you ever encounter splits not triggering as they should, please create an issue, and provide any information you can, and I will try to look into it.
+
+## Random Info
+
+I thought it might be fun to collect a lot of random information through the autosplitter to be used for different livesplit layouts.
+
+The following lists all of the information collected by the autosplitter, and the text component on the layout it tries to edit.
