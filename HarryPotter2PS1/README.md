@@ -32,4 +32,4 @@ The following lists all of the information collected by the autosplitter, and th
 
 Example:
 
-![Live Split Example](LiveSplitExample.png =250x250)
+![Live Split Example](LiveSplitExample.png)
