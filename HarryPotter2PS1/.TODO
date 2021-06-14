@@ -9,37 +9,10 @@ Live Split:
     Add more random stats tracked:
         ✔ Beans collected @done (2021-06-12, 3:33:24 p.m.)
         ☐ Time spent in dialogue
-        ☐ Deaths
+        ✔ Deaths @done (2021-06-13, 11:26:40 p.m.)
         ☐ Mandrakes collected
 
 Auto Splitter:
     ☐ Issues with death (If you die in a mission beyond a checkpoint, you will respawn before that checkpoint, but stage will not go down)
     ☐ isLoading 
     ☐ Get game time, figure that shit out
-
-Quick Saves:
-    1: Proceed screen
-    2: Before Ginny
-    3: Before quidditch
-    4: Right before basilisk death
-
-Death Screen Times:
-
-
-Stages: 
-    Once we pass this number, we've completed the level. So stage 5 = completed ghoul
-    1: Proceed Screen
-    2: Book
-    3: Burrow Boxes
-    4: Ghoul
-    5: Up to Ginny Area
-    6: Getting the De-gnoming gloves
-    7: De-gnoming
-    8: Talk before Fred Duel
-    9: Fred Duel
-    10: Missed
-    11: Up to Wrong Warp
-    12: Gryffindor common room
-    13: Run up to front hall
-    14: Front hall
-    15: Outside Herbology
